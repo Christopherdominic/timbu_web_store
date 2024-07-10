@@ -1,0 +1,19 @@
+.product-card {
+  border: 1px solid #3498db;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.product-card img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.product-card h3 {
+  color: #3498db;
+}
+
+.product-card p {
+  color: #2ecc71;
+}
+
